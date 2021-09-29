@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Hi Students !!! Good Evening!!! welcome to jenkins
+Hello Students !!! Good night!!! welcome to jenkins dashboard
